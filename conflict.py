@@ -1,4 +1,4 @@
-a=3
-b=7
-add a+b
-print(a+b)
+a=3;
+b=100;
+add a+b;
+print(a+b);
